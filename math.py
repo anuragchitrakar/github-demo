@@ -1,6 +1,6 @@
 # Add Implementation +
 def add(x,y):
-	return x+y
+	return (x+y)
 
 # subtract Implementation -
 def subtract(x,y):
